@@ -1,2 +1,2 @@
 # kansei-knowledge-mining-using-genuine-customer-reviews
-This project includes Fakes Review Detection to filter the genuine reviews and Kansei Knowledge Mining to get the effective product features to build a design guideline. As for the application, earbud reviews in Amazon Customer Reviews were used.
+This project includes Fakes Review Detection to filter the genuine reviews and Kansei Knowledge Mining to get the effective product features to build a design guideline. As for the application, earbud reviews in Amazon Customer Reviews (https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt) were used. The product_df dataset created as a result of many textual operations in the code and used for the final analysis.
